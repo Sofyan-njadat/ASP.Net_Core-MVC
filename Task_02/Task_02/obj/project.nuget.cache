@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jw3NrlcGiPM=",
+  "dgSpecHash": "TyTea1/RB38=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.NET Core MVC\\Task_02\\Task_02\\Task_02.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Task_02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

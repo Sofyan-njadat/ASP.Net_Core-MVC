@@ -1,0 +1,681 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Task_01.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Task_01.7yrrgnf2hj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\css\\error_404.css",
+      "PackagePath": "staticwebassets\\css\\error_404.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\css\\style01.css",
+      "PackagePath": "staticwebassets\\css\\style01.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\1000634303.webp",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\1000634303.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\1735568950635078893.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\1735568950635078893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\2390471_0.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\2390471_0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\465166231_8692613457497490_1205746583395108330_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\465166231_8692613457497490_1205746583395108330_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\63265d21-afc8-4725-9373-b6299701eca4-thumbnail-500x500.png",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\63265d21-afc8-4725-9373-b6299701eca4-thumbnail-500x500.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\72002015-240x180.jpeg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\72002015-240x180.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\864b3b6408eddd398714afd9df87b50a_540x.webp",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\864b3b6408eddd398714afd9df87b50a_540x.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\954049531564914643.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\954049531564914643.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\HSM-195-scaled.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\HSM-195-scaled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\HWM-V710-S.md_600x.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\HWM-V710-S.md_600x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\Screenshot 2025-01-04 004131.png",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\Screenshot 2025-01-04 004131.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\electricalApplinces01.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\electricalApplinces01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\group-of-older-white-refrigerators-sitting-outside-at-a-scrap-yard.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\group-of-older-white-refrigerators-sitting-outside-at-a-scrap-yard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\images (2).jpeg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\images (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\images.jpeg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Electrical Appliances\\شراء-ثلاجات-مستعمل-بالمدينة المنورة.jpg",
+      "PackagePath": "staticwebassets\\img\\Electrical Appliances\\شراء-ثلاجات-مستعمل-بالمدينة المنورة.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\116434427_2644052329243591_1484446717180451663_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\116434427_2644052329243591_1484446717180451663_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\209907581_4309534875763260_7730970633565545675_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\209907581_4309534875763260_7730970633565545675_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\2a03bf8b339c035260f63e1feb0b654d3161a201b882a9135a8873b0d9ac740e.jpg.webp",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\2a03bf8b339c035260f63e1feb0b654d3161a201b882a9135a8873b0d9ac740e.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\44216e6b136d18cb1b1317a706d39086c614e75036f6508c5eef8d390bfcce14.jpg.webp",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\44216e6b136d18cb1b1317a706d39086c614e75036f6508c5eef8d390bfcce14.jpg.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\467311664_1553126682746601_303716251083163550_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\467311664_1553126682746601_303716251083163550_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\94251331-400x300.jpeg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\94251331-400x300.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\Furnituer01.jpg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\Furnituer01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\Screenshot 2025-01-24 193451.png",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\Screenshot 2025-01-24 193451.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\images (2).jpeg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\images (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\images (3).jpeg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\images (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\images (5).jpeg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\images (5).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\images.jpeg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\Furnituer\\اثاث-مستعمل-دبي.jpg",
+      "PackagePath": "staticwebassets\\img\\Furnituer\\اثاث-مستعمل-دبي.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\GettyImages-1248981789-1440w.webp",
+      "PackagePath": "staticwebassets\\img\\GettyImages-1248981789-1440w.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\about-2.png",
+      "PackagePath": "staticwebassets\\img\\about-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\amman.png",
+      "PackagePath": "staticwebassets\\img\\amman.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\ammanJo.jpg",
+      "PackagePath": "staticwebassets\\img\\ammanJo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\country-2.jpg",
+      "PackagePath": "staticwebassets\\img\\country-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\country-3.jpg",
+      "PackagePath": "staticwebassets\\img\\country-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\country-4.jpg",
+      "PackagePath": "staticwebassets\\img\\country-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\furat01.jpg",
+      "PackagePath": "staticwebassets\\img\\furat01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\h0002.webp",
+      "PackagePath": "staticwebassets\\img\\h0002.webp"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\hero000.jpg",
+      "PackagePath": "staticwebassets\\img\\hero000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\hero000111.jpg",
+      "PackagePath": "staticwebassets\\img\\hero000111.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\hero02.jpg",
+      "PackagePath": "staticwebassets\\img\\hero02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\iraq.png",
+      "PackagePath": "staticwebassets\\img\\iraq.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\jordan.png",
+      "PackagePath": "staticwebassets\\img\\jordan.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\lebanon-sea.jpg",
+      "PackagePath": "staticwebassets\\img\\lebanon-sea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\lebanon.png",
+      "PackagePath": "staticwebassets\\img\\lebanon.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\logo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\logo-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\logo01.png",
+      "PackagePath": "staticwebassets\\img\\logo01.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\logoIcon-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\logoIcon-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\mony01.jpg",
+      "PackagePath": "staticwebassets\\img\\mony01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\office-1.jpg",
+      "PackagePath": "staticwebassets\\img\\office-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\office-3.jpg",
+      "PackagePath": "staticwebassets\\img\\office-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\office-4.jpg",
+      "PackagePath": "staticwebassets\\img\\office-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\recyle.gif",
+      "PackagePath": "staticwebassets\\img\\recyle.gif"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\031019140726_IMG_20191003_134655.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\031019140726_IMG_20191003_134655.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\031019140728_IMG_20191003_134723.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\031019140728_IMG_20191003_134723.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\279070515_737066801006917_3332951243814821909_n.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\279070515_737066801006917_3332951243814821909_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\673ecdad870754001d261abd.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\673ecdad870754001d261abd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\ALuminium-q8dwcjd99nfxv4g2g8fc7ell7nz9adgoergpdtxwzk.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\ALuminium-q8dwcjd99nfxv4g2g8fc7ell7nz9adgoergpdtxwzk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\Aluminum-Wheel-Scrap-for-Sale-Scrap-Aluminum-Wheel-Alloy-Wheel-Aluminum-Rims-Scrap-Rims.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\Aluminum-Wheel-Scrap-for-Sale-Scrap-Aluminum-Wheel-Alloy-Wheel-Aluminum-Rims-Scrap-Rims.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\Screenshot 2024-12-30 092927.png",
+      "PackagePath": "staticwebassets\\img\\scrap\\Screenshot 2024-12-30 092927.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\Screenshot 2024-12-30 093204.png",
+      "PackagePath": "staticwebassets\\img\\scrap\\Screenshot 2024-12-30 093204.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\accumulated-wood-waste-furniture-making-1030x539.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\accumulated-wood-waste-furniture-making-1030x539.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\adobestock_198938199_fmt.png",
+      "PackagePath": "staticwebassets\\img\\scrap\\adobestock_198938199_fmt.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\aliminium.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\aliminium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\copper-1504098_960_720.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\copper-1504098_960_720.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\corrugated-cartoon-scrap.png",
+      "PackagePath": "staticwebassets\\img\\scrap\\corrugated-cartoon-scrap.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\extrusion_3_dba662c2b2b842f7b8688ae327454937_grande.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\extrusion_3_dba662c2b2b842f7b8688ae327454937_grande.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\img\\scrap\\images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\lwblog-junk1.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\lwblog-junk1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\millberry-copper-wire-scrap.jpeg",
+      "PackagePath": "staticwebassets\\img\\scrap\\millberry-copper-wire-scrap.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\scrapMetal.png",
+      "PackagePath": "staticwebassets\\img\\scrap\\scrapMetal.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\scrap\\scrapcartoon.jpg",
+      "PackagePath": "staticwebassets\\img\\scrap\\scrapcartoon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\sssss.jpg",
+      "PackagePath": "staticwebassets\\img\\sssss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\surplses01.jpg",
+      "PackagePath": "staticwebassets\\img\\surplses01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\syria-demascus.jpg",
+      "PackagePath": "staticwebassets\\img\\syria-demascus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\syria.png",
+      "PackagePath": "staticwebassets\\img\\syria.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\training-1.jpg",
+      "PackagePath": "staticwebassets\\img\\training-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\training-2.jpg",
+      "PackagePath": "staticwebassets\\img\\training-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\training-3.jpg",
+      "PackagePath": "staticwebassets\\img\\training-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\training-4.jpg",
+      "PackagePath": "staticwebassets\\img\\training-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\woods.jpg",
+      "PackagePath": "staticwebassets\\img\\woods.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\img\\worker735.png",
+      "PackagePath": "staticwebassets\\img\\worker735.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\js\\error_404.js",
+      "PackagePath": "staticwebassets\\js\\error_404.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\js\\main01.js",
+      "PackagePath": "staticwebassets\\js\\main01.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Task_01.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Task_01.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Task_01.props",
+      "PackagePath": "build\\Task_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Task_01.props",
+      "PackagePath": "buildMultiTargeting\\Task_01.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Task_01.props",
+      "PackagePath": "buildTransitive\\Task_01.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

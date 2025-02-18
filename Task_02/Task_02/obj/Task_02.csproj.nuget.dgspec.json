@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.NET Core MVC\\Task_02\\Task_02\\Task_02.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Task_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.NET Core MVC\\Task_02\\Task_02\\Task_02.csproj": {
+    "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Task_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.NET Core MVC\\Task_02\\Task_02\\Task_02.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Task_02.csproj",
         "projectName": "Task_02",
-        "projectPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.NET Core MVC\\Task_02\\Task_02\\Task_02.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Task_02.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.NET Core MVC\\Task_02\\Task_02\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
