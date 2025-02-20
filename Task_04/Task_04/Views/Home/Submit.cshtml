@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Submit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Fill Your Informations</h2>
+
+<form method="post" action="/Home/Submit">
+    <label>Name:</label>
+    <input type="text" name="name" required />
+    <br />
+    <label>Age:</label>
+    <input type="number" name="age" required />
+    <br />
+    <button type="submit">Submit</button>
+</form>

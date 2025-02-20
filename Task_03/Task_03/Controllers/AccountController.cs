@@ -61,5 +61,11 @@ namespace Task_03.Controllers
             }
             return RedirectToAction("Login"); // اذا مش عامل Login يرجعه عالتسجيل 
         }
+
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Clear(); // حذف جميع بيانات الجلسة
+            return RedirectToAction("Login"); // إعادة التوجيه لصفحة تسجيل الدخول
+        }
     }
 }

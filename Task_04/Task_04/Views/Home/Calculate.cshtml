@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Calculate";
+    Layout = null;
+}
+
+<h1>Calculater</h1>
+
+<form method="post" action="@Url.Action("Calculate", "Calculator")">
+    <input type="number" name="num1" required placeholder="Num1">
+    <input type="number" name="num2" required placeholder="Num2">
+    <select name="operation">
+        <option value="+">+</option>
+        <option value="-">-</option>
+        <option value="*">*</option>
+        <option value="/">/</option>
+    </select>
+    <button type="submit">Submit</button>
+</form>
+
+@if (ViewBag.Result != null)
+{
+    <h3>The Result is: @ViewBag.Result</h3>
+}

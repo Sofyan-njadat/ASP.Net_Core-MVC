@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+
+    <h1>Welcome Back</h1>
+
+ 
+    <a href="@Url.Action("Privacy", "Home")">Go to Privacy</a>
+ @* يتم استخدامها داخل Views لإنشاء روابط ديناميكية دون الحاجة لكتابة الرابط يدويًا.  *@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="form-main">
+        <div id="form-div">
+            <form class="form" id="form1" method="post" action="/Home/Calculate">
+
+                <p class="name">
+                    <input name="Num1" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Number1" id="name" />
+                </p>
+
+                <p class="email">
+                    <input name="Num2" type="text" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Number2" />
+                </p>
+
+                <p class="Opera">
+                    <input name="Opera" type="text" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Operation" />
+                </p>
+
+                <p class="text">
+                    <textarea name="result" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Result">@TempData["Res"]</textarea>
+                </p>
+
+
+                <div class="submit">
+                    <input type="submit" value="SEND" id="button-blue" />
+                    <div class="ease"></div>
+                </div>
+            </form>
+        </div>
+
+
+</div>

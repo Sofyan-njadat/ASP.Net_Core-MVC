@@ -6,4 +6,9 @@
     <h1 ">Welcome</h1>
     <h1> @ViewBag.Username </h1>
     <a href="/Account/Profile">Go to Profile</a>
+    <br />
+    <a href="@Url.Action("Profile", "Account")">Profile</a>
+
+    <a href="@Url.Action("Logout", "Account")">Logout</a>
+
 </div>
