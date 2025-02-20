@@ -3,22 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C177B6C4-BE3E-4B38-88E7-A4A3294A3F9C}|..\\Task_01\\Task_01.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_01\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_02\\task_02\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|solutionrelative:task_02\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C177B6C4-BE3E-4B38-88E7-A4A3294A3F9C}|..\\Task_01\\Task_01.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_01\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_02\\task_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|solutionrelative:task_02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C177B6C4-BE3E-4B38-88E7-A4A3294A3F9C}|..\\Task_01\\Task_01.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_02\\task_02\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|solutionrelative:task_02\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C177B6C4-BE3E-4B38-88E7-A4A3294A3F9C}|..\\Task_01\\Task_01.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_02\\task_02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{640DDAAB-C382-4DD0-9AAB-BC3929017172}|Task_02\\Task_02.csproj|solutionrelative:task_02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C177B6C4-BE3E-4B38-88E7-A4A3294A3F9C}|..\\Task_01\\Task_01.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C177B6C4-BE3E-4B38-88E7-A4A3294A3F9C}|..\\Task_01\\Task_01.csproj|c:\\users\\orange\\desktop\\coding academy\\asp.net_core-mvc\\task_01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,32 +58,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Profile.cshtml",
-              "RelativeDocumentMoniker": "..\\Task_01\\Views\\Home\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Profile.cshtml",
-              "RelativeToolTip": "..\\Task_01\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AgIAADgBAAAAAAAAAAAAAEEBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:56:30.137Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task_02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task_02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:21:46.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "..\\Task_01\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Login.cshtml*",
-              "RelativeToolTip": "..\\Task_01\\Views\\Home\\Login.cshtml*",
-              "ViewState": "AgIAAAYAAAAAAAAAAADgvyEAAAAuAAAAAAAAAA==",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Task_02\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Task_02\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:21:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_02\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Task_02\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:56:28.177Z",
+              "WhenOpened": "2025-02-18T06:20:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task_02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_02\\Task_02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Task_02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T06:16:55.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\Task_01\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "..\\Task_01\\Views\\Home\\Login.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:56:28.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "..\\Task_01\\Models\\ErrorViewModel.cs",
@@ -78,12 +128,11 @@
               "RelativeToolTip": "..\\Task_01\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:52:03.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:52:03.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "..\\Task_01\\Views\\_ViewImports.cshtml",
@@ -91,12 +140,11 @@
               "RelativeToolTip": "..\\Task_01\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:50:10.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:50:10.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "..\\Task_01\\Views\\Shared\\Error.cshtml",
@@ -104,12 +152,11 @@
               "RelativeToolTip": "..\\Task_01\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:49:49.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:49:49.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Coding Academy\\ASP.Net_Core-MVC\\Task_01\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\Task_01\\Controllers\\HomeController.cs",
@@ -117,8 +164,7 @@
               "RelativeToolTip": "..\\Task_01\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:48:53.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:48:53.473Z"
             }
           ]
         }
