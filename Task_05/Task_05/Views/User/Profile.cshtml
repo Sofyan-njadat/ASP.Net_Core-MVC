@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Profile";
+}
+
+<h1>Profile Page</h1>
+
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+<div class="well">
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#" data-toggle="tab">Profile</a></li>
+    </ul>
+    <div id="myTabContent" class="tab-content">
+        <div class="tab-pane active in" id="home">
+            <form id="profileForm" method="post" action="/User/EditProfile">
+                <label>Username</label>
+                <input id="username" name="username" type="text" value="@ViewBag.Username" class="input-xlarge" disabled>
+
+                <label>Email</label>
+                <input id="email" name="email" type="text" value="@ViewBag.Email" class="input-xlarge" disabled>
+
+                <label>Phone Number</label>
+                <input id="phone" name="phone" type="text" value="@ViewBag.Phone" class="input-xlarge" disabled>
+
+                <label>Address</label>
+                <textarea id="address" name="address" rows="2" class="input-xlarge" disabled>@ViewBag.Address</textarea>
+
+                <div>
+                    <button type="button" id="editBtn" class="btn btn-primary">Edit Profile</button>
+                    <button type="submit" id="saveBtn" class="btn btn-success" style="display: none;">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById("editBtn").addEventListener("click", function () {
+        document.getElementById("username").removeAttribute("disabled");
+        document.getElementById("email").removeAttribute("disabled");
+        document.getElementById("phone").removeAttribute("disabled");
+        document.getElementById("address").removeAttribute("disabled");
+
+        document.getElementById("editBtn").style.display = "none";
+        document.getElementById("saveBtn").style.display = "inline-block";
+    });
+</script>
