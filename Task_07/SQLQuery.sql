@@ -1,0 +1,20 @@
+CREATE DATABASE E_CommerceStore;
+USE E_CommerceStore;
+
+CREATE TABLE AllUsers (
+    ID INT IDENTITY(1,1) PRIMARY KEY,  
+	Name NVARCHAR(50) NOT NULL,         
+    Email NVARCHAR(100) UNIQUE NOT NULL,  
+    Password NVARCHAR(20) NOT NULL,
+	Role NVARCHAR(10) DEFAULT 'User'
+);
+
+CREATE TABLE Products (
+	ID INT IDENTITY(1,1) PRIMARY KEY,
+	Product_name NVARCHAR(100) NOT NULL,
+	Description NVARCHAR(255) NOT NULL,
+	Price DECIMAL(5,2) NOT NULL
+);
+
+SELECT * FROM AllUsers;
+Drop table AllUsers;

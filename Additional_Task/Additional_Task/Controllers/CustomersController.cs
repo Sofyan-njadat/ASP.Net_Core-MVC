@@ -65,7 +65,9 @@ namespace Additional_Task.Controllers
             if (customer != null)
             {
                 // تخزين اسم المستخدم في Session أو ViewBag
-                ViewBag.UserName = customer.Name;
+                HttpContext.Session.SetString("UserName", customer.Name);
+                //ViewBag.UserName = customer.Name;
+                
                 return RedirectToAction("Home");
             }
             else
@@ -77,8 +79,8 @@ namespace Additional_Task.Controllers
 
         public ActionResult Home()
         {
-            //var userName = HttpContext.Session.GetString("UserName");
-            //ViewBag.UserName = userName;
+            var userName = HttpContext.Session.GetString("UserName");
+            ViewBag.UserName = userName;
             return View();
         }
 
