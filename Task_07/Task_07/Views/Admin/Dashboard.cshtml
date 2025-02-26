@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1> Admin Dashboard</h1>
+
+<ul>
+    <li><a asp-controller="Admin" asp-action="Users">Manage Users</a></li>
+    <li><a asp-controller="Admin" asp-action="Products">Manage Products</a></li>
+</ul>

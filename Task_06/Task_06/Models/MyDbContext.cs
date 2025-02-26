@@ -27,7 +27,7 @@ public partial class MyDbContext : DbContext
     {
         modelBuilder.Entity<Department>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Departme__3214EC2790B2940E");
+            entity.HasKey(e => e.Id).HasName("PK__Departme__3214EC2713C4F117");
 
             entity.ToTable("Department");
 

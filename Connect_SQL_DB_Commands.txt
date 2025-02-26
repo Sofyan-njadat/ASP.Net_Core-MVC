@@ -28,3 +28,6 @@ builder.Services.AddDbContext<MyDbContext>(options =>
 "ConnectionStrings": {
   "MyConnectionString": "Server=اسم السيرفر; Database=اسم الداتا بيز; Trusted_Connection=True;TrustServerCertificate=True;"
 }
+
+6-مزامنه من SQL الى VS في حالة اضافة تيبل او كولوم جديد 
+Scaffold-DbContext "Server=DESKTOP-3UUB6RH; Database=Mega_Store; Trusted_Connection=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context MyDbContext -Force
